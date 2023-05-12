@@ -17,7 +17,7 @@
         <h5 class="text-white ms-2">Hospital Management System</h5>
         <div class="ms-auto"></div>
         <ul class="navbar-nav me-3">
-            <li class="nav-item"><a href="#" class="nav-link text-white btn btn-dark">Admin</a></li>
+            <li class="nav-item"><a href="../admin_login.php" class="nav-link text-white btn btn-dark">Admin</a></li>
             <li class="nav-item"><a href="#" class="nav-link text-white btn btn-dark">Doctor</a></li>
             <li class="nav-item"><a href="#" class="nav-link text-white btn btn-dark">Patient</a></li>
         </ul>

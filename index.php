@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Home</title>
 </head>
-<body>
+<body style="background-color: aliceblue">
 <?php
 include "include/header.php";
 ?>
