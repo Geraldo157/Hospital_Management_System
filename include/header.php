@@ -13,13 +13,13 @@
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css">
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-info bg-info">
+    <nav class="navbar navbar-expand-lg navbar-info bg-dark">
         <h5 class="text-white ms-2">Hospital Management System</h5>
         <div class="ms-auto"></div>
         <ul class="navbar-nav me-3">
-            <li class="nav-item"><a href="#" class="nav-link text-white">Admin</a></li>
-            <li class="nav-item"><a href="#" class="nav-link text-white">Doctor</a></li>
-            <li class="nav-item"><a href="#" class="nav-link text-white">Patient</a></li>
+            <li class="nav-item"><a href="#" class="nav-link text-white btn btn-dark">Admin</a></li>
+            <li class="nav-item"><a href="#" class="nav-link text-white btn btn-dark">Doctor</a></li>
+            <li class="nav-item"><a href="#" class="nav-link text-white btn btn-dark">Patient</a></li>
         </ul>
     </nav>
 </body>
